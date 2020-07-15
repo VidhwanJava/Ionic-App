@@ -1,0 +1,7 @@
+{
+  "name": "Vidhwan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
